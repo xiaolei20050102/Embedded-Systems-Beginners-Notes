@@ -1,0 +1,5 @@
+#ifndef __THROUGH_BEAM_PHOTOELECTRIC_SENSOR_H
+#define __THROUGH_BEAM_PHOTOELECTRIC_SENSOR_H
+void ThroughBeamphotoelectricSensor_Init(void);
+uint16_t ThroughBeamphotoelectricSensor_GetCount(void);
+#endif
